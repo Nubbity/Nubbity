@@ -11,8 +11,5 @@ Hi there! I'm Santeri, and I'm currently a studying Industrial Engineering in LU
 ## 🛠️ My Tech Stack
 - **Languages**: Python, SQL, C, Java
 - **Tools & Libraries**: Jupyter Notebook, PyTorch, scikit-learn, Pandas
+- **Other tools**: UiPath
 
-## 🐍
-
-
-![Snake animation](https://github.com/YourUsername/YourUsername/blob/output/github-contribution-grid-snake.svg)
