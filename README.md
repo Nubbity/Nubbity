@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Welcome to my GitHub Profile!
 
-<!--
-**Nubbity/Nubbity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm Santeri, and I'm currently a studying Industrial Engineering in LUT and Business Analytics at Aalto. I'm not a developer nor I want to be one. I'm just curious to learn new tech and add tools to my toolkit
 
-Here are some ideas to get you started:
+## 🧑‍💻 About Me
+- 🎓 Studying:
+  - Industrial Engineering and management(Data-analytics in Decision making) @ LUT
+  - Business Analytics @ Aalto University
+- 🌱 Active when I find something really intresting to learn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ My Tech Stack
+- **Languages**: Python, SQL, C, Java
+- **Tools & Libraries**: Jupyter Notebook, PyTorch, scikit-learn, Pandas
+
+## 🐍
+
+
+![Snake animation](https://github.com/YourUsername/YourUsername/blob/output/github-contribution-grid-snake.svg)
